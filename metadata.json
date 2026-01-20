@@ -1,0 +1,5 @@
+{
+  "name": "SmartTodo AI",
+  "description": "A high-performance task management application powered by Supabase and Gemini AI for smart task breakdowns and prioritization.",
+  "requestFramePermissions": []
+}
